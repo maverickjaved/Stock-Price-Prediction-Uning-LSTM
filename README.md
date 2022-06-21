@@ -1,1 +1,1 @@
-# Google-Stock-Price-Prediction-Uning-LSTM
+# Google-Stock-Price-Prediction-Using-LSTM
